@@ -16,7 +16,7 @@ Click==7.0
 cloudpickle==0.8.0
 colorama==0.4.1
 configobj==5.0.6
-cryptography==2.1.4
+cryptography==3.2
 cycler==0.10.0
 dask==1.1.2
 decorator==4.3.2

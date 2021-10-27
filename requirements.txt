@@ -18,7 +18,7 @@ colorama==0.4.1
 configobj==5.0.6
 cryptography==2.1.4
 cycler==0.10.0
-dask==1.1.2
+dask==2021.10.0
 decorator==4.3.2
 docutils==0.14
 enum34==1.1.6

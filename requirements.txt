@@ -56,7 +56,7 @@ packaging==19.0
 pbr==5.1.2
 Pillow==5.4.1
 post==2019.3.22
-protobuf==3.6.1
+protobuf==3.18.3
 public==2019.3.22
 pycrypto==2.6.1
 pyfiglet==0.8.post1
